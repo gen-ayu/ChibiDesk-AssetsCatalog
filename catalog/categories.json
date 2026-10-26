@@ -1,1 +1,34 @@
 
+{
+  "version": 1,
+  "asset_types": [
+    {
+      "id": "wallpaper",
+      "name": "Wallpapers",
+      "description": "Static and live desktop backgrounds"
+    },
+    {
+      "id": "asset",
+      "name": "Desktop Assets",
+      "description": "GIFs, APNGs, short videos, animated stickers and desktop overlays"
+    }
+  ],
+  "tags": [
+    "anime",
+    "action",
+    "realistic",
+    "nature",
+    "flowers",
+    "world",
+    "abstract",
+    "minimal",
+    "cyberpunk",
+    "4k",
+    "8k",
+    "live",
+    "cute",
+    "chibi",
+    "transparent"
+  ]
+}
+
